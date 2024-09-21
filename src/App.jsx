@@ -1,5 +1,5 @@
 import "./App.css";
-import Hero from "./components/HERO.JSX";
+import Hero from "./components/Hero";
 import Highlights from "./components/Highlights";
 import Navbar from "./components/Navbar";
 import Model from "./components/Model";
